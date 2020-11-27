@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891377209272",
+    "firebase_url": "https://tik-tak-tu.firebaseio.com",
+    "project_id": "tik-tak-tu",
+    "storage_bucket": "tik-tak-tu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891377209272:android:a464b32bf5039d5f42494d",
+        "android_client_info": {
+          "package_name": "com.argahutama.tik_tak_tu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891377209272-hqistiaambse4uiar6umeanakk76msqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeFU_JfcrFEA_FV46zbyt6hDIRJA7g9FE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891377209272-hqistiaambse4uiar6umeanakk76msqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
